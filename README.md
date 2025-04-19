@@ -13,8 +13,7 @@
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Overview
 
@@ -44,9 +43,6 @@ Designed for security professionals, red teams, and threat researchers to test d
 ## Installation
 
 ### Requirements
-- Python 3.8+
-- 4GB+ RAM (8GB recommended for ML components)
-- 2GB disk space
 ```bash
 pip install -r requirements.txt
 ```
